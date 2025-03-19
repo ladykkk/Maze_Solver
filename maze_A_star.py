@@ -503,7 +503,6 @@ if __name__ == "__main__":
 
 
 """
-"/Users/jiafei/Desktop/courses/SP 23/Sp23 CS F003C 02W Adv Data Struct Algorithm Python/bin/python" /Users/jiafei/Desktop/courses/SP 23/Sp23 CS F003C 02W Adv Data Struct Algorithm Python/maze_A_star.py 
 Maze Size 5
 █ █████████
 █* *█* *  █

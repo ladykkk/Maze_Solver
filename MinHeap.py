@@ -144,7 +144,7 @@ if __name__ == "__main__":
 
 
 """
-"/Users/jiafei/Desktop/courses/SP 23/Sp23 CS F003C 02W Adv Data Struct Algorithm Python/bin/python" /Users/jiafei/Desktop/courses/SP 23/Sp23 CS F003C 02W Adv Data Struct Algorithm Python/MinHeap.py 
+
 Test of insert and remove.
 The size of heap_list is 7.
 Remove 3
