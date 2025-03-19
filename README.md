@@ -1,1 +1,1 @@
-# Maze_Design
+# Maze_Solver
